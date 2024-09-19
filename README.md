@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lexs&label=Profile%20views&color=0e75b6&style=flat" alt="lexs" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lexs" alt="lexs" /></a> </p>
-
 - 🌱 I’m currently learning **Programming Logic and Python**
 
 - 📫 How to reach me **kyuchi852@gmail.com**
